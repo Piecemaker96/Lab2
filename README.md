@@ -16,3 +16,10 @@ link to fork https://github.com/Piecemaker96/Lab2Fork-101.git
 link to pull:  https://github.com/UVA-CS3240-S18/Lab2Fork-101/pull/42
 
 improvement:  added additional user feedback in the lo_shu.py program
+
+# Activity 4
+
+link to issue: https://github.com/UVA-CS3240-S18/IveGotIssues/issues/52
+
+
+# Activity 5
