@@ -4,11 +4,12 @@ bjm3jh
 
 Lab2 for cs3240
 
-Activity 2:
+#Activity 2:
+
 link to hell-world repo:  https://github.com/Piecemaker96/hello-world.git
 
 
-Activity 3: 
+#Activity 3: 
 
 link to fork https://github.com/Piecemaker96/Lab2Fork-101.git
 
